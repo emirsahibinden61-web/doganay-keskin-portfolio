@@ -1,11 +1,19 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { MessageCircle, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export default function WhatsAppButton() {
   const [showTooltip, setShowTooltip] = useState(true);
+
+  // Automatically dismiss the message tooltip after 2 seconds
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setShowTooltip(false);
+    }, 2000);
+    return () => clearTimeout(timer);
+  }, []);
 
   const phone = '905445727292';
   const message = 'Merhaba, websiten üzerinden ulaşıyorum';

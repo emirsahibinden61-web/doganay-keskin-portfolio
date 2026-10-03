@@ -56,16 +56,16 @@ export default function ScrollIndicator({ showHud = true }: { showHud?: boolean 
         />
       </div>
 
-      {/* Floating Timecode HUD (Director / Editor aesthetic) */}
+      {/* Floating Timecode HUD (Director / Editor aesthetic on Desktop & Mobile) */}
       {showHud && (
-        <div className="fixed bottom-6 left-6 z-40 hidden md:flex items-center gap-2 px-3 py-1.5 rounded-full bg-black/60 border border-white/10 backdrop-blur-md text-[11px] font-mono text-zinc-300">
+        <div className="fixed bottom-5 left-4 md:bottom-6 md:left-6 z-30 flex items-center gap-1.5 sm:gap-2 px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-full bg-black/80 border border-white/10 backdrop-blur-md text-[10px] sm:text-[11px] font-mono text-zinc-300 shadow-xl pointer-events-none select-none">
           <span className="relative flex h-2 w-2">
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
             <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500"></span>
           </span>
-          <span className="text-zinc-500 font-semibold tracking-wider">REC</span>
+          <span className="text-zinc-400 font-semibold tracking-wider">REC</span>
           <span className="text-amber-400/90 font-mono tracking-widest">{timecode}</span>
-          <span className="text-zinc-500">|</span>
+          <span className="text-zinc-600 hidden xs:inline">|</span>
           <span className="text-zinc-400">{percent}%</span>
         </div>
       )}

@@ -70,12 +70,9 @@ export default function Navbar({ content }: NavbarProps) {
               <span className="font-extrabold tracking-wider text-base sm:text-lg text-white group-hover:text-amber-400 transition-colors uppercase font-mono">
                 {content.profile.name}
               </span>
-              <span className={`text-[10px] uppercase font-mono px-1.5 py-0.5 rounded border ${getAccentBadge()}`}>
-                Pro
-              </span>
             </div>
-            <span className="text-xs text-zinc-400 font-sans tracking-tight">
-              {content.profile.brandName} & Video Editor
+            <span className="text-xs text-amber-400 font-sans tracking-tight">
+              Keskinler Müzik Organizasyon
             </span>
           </div>
         </Link>

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { SiteContent, PortfolioItem } from '@/lib/types';
 import Navbar from '@/components/common/Navbar';
 import HeroSection from '@/components/home/HeroSection';
@@ -24,6 +24,20 @@ interface HomeClientProps {
 export default function HomeClient({ initialContent, initialPortfolio }: HomeClientProps) {
   const [selectedItem, setSelectedItem] = useState<PortfolioItem | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
+
+  // Force page to start strictly at the very top on reload/load
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      if ('scrollRestoration' in window.history) {
+        window.history.scrollRestoration = 'manual';
+      }
+      window.scrollTo(0, 0);
+      const timer = setTimeout(() => {
+        window.scrollTo(0, 0);
+      }, 50);
+      return () => clearTimeout(timer);
+    }
+  }, []);
 
   const vis = initialContent.sectionVisibility || {
     heroHashtags: true,
