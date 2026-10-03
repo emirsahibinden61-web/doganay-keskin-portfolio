@@ -1,5 +1,5 @@
-import { redirect } from 'next/navigation';
+import { notFound } from 'next/navigation';
 
-export default function AdminRedirect() {
-  redirect('/dogiadmin61');
+export default function AdminPage() {
+  notFound();
 }

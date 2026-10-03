@@ -4,6 +4,7 @@ import { ThemeProvider } from '@/context/ThemeContext';
 import ThemeSwitcher from '@/components/common/ThemeSwitcher';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://doganaykeskin.com'),
   title: 'Doğanay Keskin — Sinematik Video Editörü & Keskinler Müzik Organizasyon',
   description: 'Sakarya merkezli profesyonel video kurgusu, düğün & klip prodüksiyonu, Keskinler Müzik sahne organizasyonları ve premium albüm-davetiye tasarımı.',
   keywords: [

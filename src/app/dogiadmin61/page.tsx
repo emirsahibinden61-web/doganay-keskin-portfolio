@@ -416,11 +416,7 @@ export default function DogiAdminPage() {
                   placeholder="Şifrenizi girin..."
                   className="w-full px-4 py-3.5 pl-11 rounded-xl bg-zinc-900 border border-white/15 text-white text-sm focus:outline-none focus:border-amber-400 transition-colors"
                 />
-                <KeyRound className="w-4 h-4 text-zinc-400 absolute left-4 top-1/2 -translate-y-1/2" />
               </div>
-              <p className="text-[11px] text-zinc-500 mt-1.5 font-mono">
-                Şifre: <span className="text-amber-400/90 font-mono">Dogi5461.</span>
-              </p>
             </div>
 
             {authError && (
