@@ -1,0 +1,351 @@
+{
+  "profile": {
+    "name": "Doğanay Keskin",
+    "shortName": "Dogi",
+    "tagline": "Sinematik Video Editörü & Keskinler Müzik Organizasyon Sahibi",
+    "age": "24",
+    "location": "Sakarya, Türkiye",
+    "brandName": "Keskinler Müzik Organizasyon",
+    "heroTitle": "Hikayeleri Ekrana, Duyguları Belleğe Kazıyan Sinematik Vizyon",
+    "heroSubtitle": "Sakarya merkezli, profesyonel video kurgusu, düğün & klip prodüksiyonu, canlı müzik sahne organizasyonları ve premium albüm-davetiye tasarımı.",
+    "avatar": "/images/dogi-portrait.jpg",
+    "heroImage": "/images/dogi-cinematic.jpg",
+    "originalImage": "/images/dogi-original.jpg",
+    "defaultTheme": "cyber"
+  },
+  "contacts": {
+    "phone": "+905445727292",
+    "whatsapp": "+905445727292",
+    "whatsappMessage": "Merhaba, websiten üzerinden ulaşıyorum",
+    "instagramPersonal": "@doganaykesking",
+    "instagramPersonalUrl": "https://instagram.com/doganaykesking",
+    "instagramBusiness": "@keskinlermuzik",
+    "instagramBusinessUrl": "https://instagram.com/keskinlermuzik",
+    "email": "doganaykeskin@keskinlermuzik.com"
+  },
+  "heroHashtags": [
+    "Video Kurgu & Color Grading",
+    "Düğün & Klip Prodüksiyon",
+    "Keskinler Canlı Sahne",
+    "Lüks Albüm & Davetiye Baskı"
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "label": "Tüm Çalışmalar",
+      "enabled": true
+    },
+    {
+      "id": "video-kurgu",
+      "label": "Video Kurgu & Klip",
+      "enabled": true
+    },
+    {
+      "id": "dugun-klip",
+      "label": "Düğün Hikayesi",
+      "enabled": true
+    },
+    {
+      "id": "organizasyon",
+      "label": "Keskinler Sahne & Canlı Müzik",
+      "enabled": true
+    },
+    {
+      "id": "album-davetiye",
+      "label": "Albüm & Davetiye Tasarım",
+      "enabled": true
+    },
+    {
+      "id": "drone-reklam",
+      "label": "4K Drone & Tanıtım",
+      "enabled": false
+    }
+  ],
+  "sectionVisibility": {
+    "heroHashtags": true,
+    "stats": true,
+    "portfolio": true,
+    "services": true,
+    "keskinlerMusic": false,
+    "personalReels": true,
+    "instagramReels": true,
+    "about": true,
+    "equipment": true,
+    "contact": true,
+    "whatsappFloating": true,
+    "timecodeHud": true,
+    "cursorEffect": true
+  },
+  "personalReels": [
+    {
+      "id": "doganaykesking-DbIwRYXN86P",
+      "reelUrl": "https://www.instagram.com/reel/DbIwRYXN86P/",
+      "videoUrl": "/uploads/reels/doganay/DbIwRYXN86P.mp4",
+      "posterUrl": "/images/reels/doganay/DbIwRYXN86P.jpg",
+      "caption": "doganaykesking Reels Paylaşımı",
+      "likes": "81",
+      "views": "3.8B",
+      "musicTrack": "Doğanay Keskin • Sound Design",
+      "date": "Güncel"
+    },
+    {
+      "id": "doganaykesking-DaQw78dtkk3",
+      "reelUrl": "https://www.instagram.com/reel/DaQw78dtkk3/",
+      "videoUrl": "/uploads/reels/doganay/DaQw78dtkk3.mp4",
+      "posterUrl": "/images/reels/doganay/DaQw78dtkk3.jpg",
+      "caption": "doganaykesking Reels Paylaşımı",
+      "likes": "97",
+      "views": "3.8B",
+      "musicTrack": "Doğanay Keskin • Sound Design",
+      "date": "Güncel"
+    },
+    {
+      "id": "doganaykesking-DZxE7nfNybT",
+      "reelUrl": "https://www.instagram.com/reel/DZxE7nfNybT/",
+      "videoUrl": "/uploads/reels/doganay/DZxE7nfNybT.mp4",
+      "posterUrl": "/images/reels/doganay/DZxE7nfNybT.jpg",
+      "caption": "doganaykesking Reels Paylaşımı",
+      "likes": "1.3B",
+      "views": "46.7B",
+      "musicTrack": "Doğanay Keskin • Sound Design",
+      "date": "Güncel"
+    },
+    {
+      "id": "doganaykesking-DY2oadYtLtB",
+      "reelUrl": "https://www.instagram.com/reel/DY2oadYtLtB/",
+      "videoUrl": "/uploads/reels/doganay/DY2oadYtLtB.mp4",
+      "posterUrl": "/images/reels/doganay/DY2oadYtLtB.jpg",
+      "caption": "doganaykesking Reels Paylaşımı",
+      "likes": "111",
+      "views": "6.0B",
+      "musicTrack": "Doğanay Keskin • Sound Design",
+      "date": "Güncel"
+    }
+  ],
+  "instagramReels": [
+    {
+      "id": "keskinlermuzik-Dc_BuUztJJu",
+      "reelUrl": "https://www.instagram.com/reel/Dc_BuUztJJu/",
+      "videoUrl": "/uploads/reels/Dc_BuUztJJu.mp4",
+      "posterUrl": "/images/reels/Dc_BuUztJJu.jpg",
+      "caption": "300-500",
+      "likes": "1.9B",
+      "views": "18.2B",
+      "musicTrack": "Keskinler Müzik Orkestrası • Canlı Sahne",
+      "date": "Güncel"
+    },
+    {
+      "id": "keskinlermuzik-DcJD0nstTdA",
+      "reelUrl": "https://www.instagram.com/reel/DcJD0nstTdA/",
+      "videoUrl": "/uploads/reels/DcJD0nstTdA.mp4",
+      "posterUrl": "/images/reels/DcJD0nstTdA.jpg",
+      "caption": "Video by Keskinler Müzik on August 17, 2026. bir veya daha fazla kişi, sarık, gece ve yazı görseli olabilir.",
+      "likes": "2.3B",
+      "views": "21.4B",
+      "musicTrack": "Keskinler Müzik Orkestrası • Canlı Sahne",
+      "date": "Güncel"
+    },
+    {
+      "id": "keskinlermuzik-Db3LahZNGGk",
+      "reelUrl": "https://www.instagram.com/reel/Db3LahZNGGk/",
+      "videoUrl": "/uploads/reels/Db3LahZNGGk.mp4",
+      "posterUrl": "/images/reels/Db3LahZNGGk.jpg",
+      "caption": "☁️ ☁️",
+      "likes": "2.7B",
+      "views": "24.6B",
+      "musicTrack": "Keskinler Müzik Orkestrası • Canlı Sahne",
+      "date": "Güncel"
+    },
+    {
+      "id": "keskinlermuzik-DbQWQAwtglo",
+      "reelUrl": "https://www.instagram.com/reel/DbQWQAwtglo/",
+      "videoUrl": "/uploads/reels/DbQWQAwtglo.mp4",
+      "posterUrl": "/images/reels/DbQWQAwtglo.jpg",
+      "caption": "Video by Keskinler Müzik on July 26, 2026. bir veya daha fazla kişi, kostüm, halı ve yazı görseli olabilir.",
+      "likes": "3.1B",
+      "views": "27.8B",
+      "musicTrack": "Keskinler Müzik Orkestrası • Canlı Sahne",
+      "date": "Güncel"
+    },
+    {
+      "id": "keskinlermuzik-DbA_EtJNVAw",
+      "reelUrl": "https://www.instagram.com/reel/DbA_EtJNVAw/",
+      "videoUrl": "/uploads/reels/DbA_EtJNVAw.mp4",
+      "posterUrl": "/images/reels/DbA_EtJNVAw.jpg",
+      "caption": "📷 - @doganaykesking",
+      "likes": "3.5B",
+      "views": "31.0B",
+      "musicTrack": "Keskinler Müzik Orkestrası • Canlı Sahne",
+      "date": "Güncel"
+    },
+    {
+      "id": "keskinlermuzik-Dan4pLLN4AC",
+      "reelUrl": "https://www.instagram.com/reel/Dan4pLLN4AC/",
+      "videoUrl": "/uploads/reels/Dan4pLLN4AC.mp4",
+      "posterUrl": "/images/reels/Dan4pLLN4AC.jpg",
+      "caption": "GEL GEEL",
+      "likes": "3.9B",
+      "views": "34.2B",
+      "musicTrack": "Keskinler Müzik Orkestrası • Canlı Sahne",
+      "date": "Güncel"
+    },
+    {
+      "id": "keskinlermuzik-DXDB37UDVHa",
+      "reelUrl": "https://www.instagram.com/reel/DXDB37UDVHa/",
+      "videoUrl": "/uploads/reels/DXDB37UDVHa.mp4",
+      "posterUrl": "/images/reels/DXDB37UDVHa.jpg",
+      "caption": "Yaşaaaa",
+      "likes": "4.3B",
+      "views": "37.4B",
+      "musicTrack": "Keskinler Müzik Orkestrası • Canlı Sahne",
+      "date": "Güncel"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Tamamlanan Proje",
+      "value": "280+"
+    },
+    {
+      "label": "Sahne & Organizasyon",
+      "value": "150+"
+    },
+    {
+      "label": "Özel Albüm & Davetiye",
+      "value": "350+"
+    },
+    {
+      "label": "Sektör Tecrübesi",
+      "value": "7+ Yıl"
+    }
+  ],
+  "about": {
+    "title": "Kurguda Ritim, Sahnede Enerji, Tasarımda Zarafet",
+    "paragraphs": [
+      "Merhaba, ben Doğanay Keskin. 24 yaşındayım ve Sakarya'da yaşıyorum. Video kurgu, klip yönetmenliği ve post-prodüksiyon dünyasında her kareye anlam katan bir vizyonla çalışıyorum.",
+      "Aynı zamanda 'Keskinler Müzik Organizasyon'un kurucusu olarak düğün, konser, özel davet ve etkinliklerde profesyonel canlı müzik ekibi ve üst düzey sahne-ışık kurulumlarını yönetiyorum.",
+      "Görsel sanatların yalnızca hareketli görüntülerle sınırlı kalmadığına inanarak, en özel günleriniz için kişiye özel lüks albüm tasarımı ve birinci sınıf davetiye baskı hizmeti de sunuyorum."
+    ],
+    "skills": [
+      "Sinematik Video Kurgu & Renk (Color Grading)",
+      "Düğün Hikayesi & Klip Çekimi",
+      "Canlı Müzik & Sahne Organizasyonu",
+      "4K Drone & Havadan Görüntüleme",
+      "Lüks Albüm Tasarımı & Özel Kağıt Davetiye Baskısı",
+      "Sound Design & Ritim Kurgusu",
+      "DaVinci Resolve Studio & Adobe Premiere Pro",
+      "Adobe After Effects, Photoshop & InDesign"
+    ],
+    "equipment": [
+      {
+        "category": "Yazılım",
+        "items": [
+          "DaVinci Resolve Studio",
+          "Premiere Pro",
+          "After Effects",
+          "Photoshop",
+          "Lightroom"
+        ]
+      },
+      {
+        "category": "Kamera & Optik",
+        "items": [
+          "Sony Cinema Line FX3",
+          "Sony A7S III",
+          "G-Master Lens Ailesi",
+          "DJI Ronin RS3 Pro"
+        ]
+      },
+      {
+        "category": "Hava & Ses",
+        "items": [
+          "DJI Air 3 4K Drone",
+          "Sennheiser Kablosuz Mikrofonlar",
+          "Shure Sahne Mikrofonları"
+        ]
+      },
+      {
+        "category": "Baskı & Prodüksiyon",
+        "items": [
+          "Fine-Art Fotoğraf Kağıdı",
+          "Kabartma Lak & Varak Yaldız",
+          "Lüks Keten Ciltler"
+        ]
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "video-editing",
+      "title": "Sinematik Video Kurgu & Post-Prodüksiyon",
+      "shortDesc": "Ritim, renk derecelendirme (color grading), ses tasarımı ve modern geçişlerle videolarınızı sinema perdesi kalitesine taşıyorum.",
+      "icon": "Film",
+      "features": [
+        "Log/RAW Renk Derecelendirme",
+        "Ritim ve Müzik Senkron Kurgu",
+        "Görsel Efekt & Motion Graphics",
+        "YouTube, 4K Master ve Reels Formatları"
+      ]
+    },
+    {
+      "id": "wedding-clip",
+      "title": "Düğün & Özel Gün Sinematik Hikayesi",
+      "shortDesc": "En mutlu gününüzü sıradan bir video kaydı olmaktan çıkarıp, yıllar sonra bile gözlerinizi dolduracak sinematik bir başyapıta dönüştürüyorum.",
+      "icon": "HeartHandshake",
+      "features": [
+        "Save The Date & Düğün Hikayesi",
+        "Teaser ve Sosyal Medya Kurguları",
+        "Duygusal Kurgu ve Müzik Seçimi",
+        "4K Çözünürlükte Kesintisiz Teslimat"
+      ]
+    },
+    {
+      "id": "music-organization",
+      "title": "Keskinler Müzik & Sahne Organizasyonu",
+      "shortDesc": "Düğün, nişan, konser ve kurumsal organizasyonlarınız için eksiksiz canlı müzik kadrosu, ses, ışık ve sahne sistemleri.",
+      "icon": "Music",
+      "features": [
+        "Profesyonel Canlı Müzik Orkestrası",
+        "Son Teknoloji Ses & Işık Sistemleri",
+        "DJ Performansı & Özel Repertuar",
+        "Tüm Türkiye ve Sakarya Geneli Hizmet"
+      ]
+    },
+    {
+      "id": "album-invitation",
+      "title": "Lüks Albüm & Davetiye Tasarımı & Baskı",
+      "shortDesc": "Özel dokulu kağıtlar, varak yaldız, kabartma lak ve el yapımı ciltlerle unutulmaz albüm ve davetiye tasarımları.",
+      "icon": "Palette",
+      "features": [
+        "Kişiye Özel Konsept Tasarımlar",
+        "Panoramik Kristal & Keten Albümler",
+        "Birinci Kalite Matbaa Baskısı",
+        "Örnek Prova ve Hızlı Teslimat"
+      ]
+    },
+    {
+      "id": "drone-reklam",
+      "title": "4K Drone Çekimi & Reklam Filmi",
+      "shortDesc": "Mekanınızın, markanızın veya etkinliğinizin büyüklüğünü gökyüzünden yakalayan dinamik hava çekimleri ve tanıtım filmleri.",
+      "icon": "Camera",
+      "features": [
+        "Lisanslı 4K / 60FPS Drone Uçuşu",
+        "İşletme & Mekan Tanıtım Filmleri",
+        "Sosyal Medya Reklam Paketleri",
+        "Dikey ve Yatay Optimizasyon"
+      ]
+    },
+    {
+      "id": "reels-production",
+      "title": "Viral Reels & Sosyal Medya Paketleri",
+      "shortDesc": "TikTok, Instagram Reels ve YouTube Shorts için kanca (hook) odaklı, yüksek etkileşimli hızlı ve trend kurgular.",
+      "icon": "Sparkles",
+      "features": [
+        "Trend Müzik ve Ses Efektleri",
+        "Dinamik Altyazı ve Animasyonlar",
+        "Yüksek Dönüşümlü Kanca Kurguları",
+        "Haftalık / Aylık Düzenli Paketler"
+      ]
+    }
+  ]
+}
